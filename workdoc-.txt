@@ -1,0 +1,7 @@
+#exponentiation
+def (x,y):
+    c=x**y
+    return c
+x=int(input("enter a number-"))
+y=int(input("enter the power-'))
+print("the result is -", def(x,y))
